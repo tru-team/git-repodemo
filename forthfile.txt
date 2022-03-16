@@ -1,1 +1,1 @@
-forth file to test in child with master and merge 
+forth file to test and its master for testing.   
