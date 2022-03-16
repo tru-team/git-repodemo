@@ -1,1 +1,1 @@
-third file to test in child branch testing
+third file to test in child branch testing child with master
