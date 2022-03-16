@@ -1,1 +1,1 @@
-forth file to test and its child
+forth file to test and its master.   
