@@ -1,1 +1,1 @@
-edited in master second file for testing.
+edit to test in child for testing child with master and merge
